@@ -418,30 +418,6 @@ body.noscroll {
     display: none;
 }
 
-
-
-/* 
-.project-btn {
-    min-height: 220px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.all-project {
-    max-width: 247px;
-    max-height: 75px;
-    background-color: black;
-    border: 1px solid #5221E6;
-}
-
-.all-project a {
-    text-transform: uppercase;
-    display: block;
-    margin: 24px 32px;
-    font-size: 18px;
-} */
-
 /* instagram */
 
 .instagram {
@@ -687,7 +663,7 @@ body.noscroll {
 }
 .photo-chapter_list-brazil.open {
     display: block;
-    
+    display: flex;
     flex-direction: column;
     gap: 24px;
 }
